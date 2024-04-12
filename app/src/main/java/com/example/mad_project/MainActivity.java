@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     EditText PaymentET,AmountET,PaymentdelET;
     TextView Shower;
     DBAdapter helper;
-
+    // Khush is a fool 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
